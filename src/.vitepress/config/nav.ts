@@ -43,7 +43,7 @@ export const nav: DefaultTheme.Config['nav'] = [
 },
 {text:'关于我们',
   items: [
-    { text: '关于我们', link: '/about/us' },
+    { text: '关于花思', link: '/about/us' },
     { text: '联系我们', link: '/about/connection' },
   ]
 },

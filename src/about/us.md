@@ -1,5 +1,5 @@
 ---
-title: "关于我们"
+title: "关于花思"
 ---
 
 # {{ $frontmatter.title }}
@@ -13,9 +13,19 @@ title: "关于我们"
 
 ## 主营业务
 
-<linkcard url="/product/flower/retail" title="鲜花零售" desc="为鲜花爱好者以及广大消费者提供优质的鲜花零售服务" type="tip" />
-<linkcard url="/flower/wholesale" title="鲜花批发" desc="为鲜花从业人员及花店提供优质的鲜花批发服务" type="important" />
-<linkcard url="/product/materials/" title="花材资材" desc="为鲜花从业人员、花店以及广大消费者提供优质的鲜花资材销售服务" type="warning"/>
+<CardGrid>
+<linkcard url="/business/flower/retail" title="花材零售" desc="为鲜花爱好者以及广大消费者提供优质的鲜花零售服务" />
+<linkcard url="/business/flower/wholesale" title="花材批发" desc="为鲜花从业人员及花店提供优质的鲜花批发服务"  />
+
+</CardGrid>
+
+<linkcard url="/business/materials/wholesale" title="礼品花束" desc="为用户提供优质鲜花礼品服务" />
+
+
+<CardGrid>
+<linkcard url="/business/materials/retail" title="耗材零售" desc="为鲜花爱好者以及广大消费者提供优质的资材零售服务" />
+<linkcard url="/business/materials/wholesale" title="耗材批发" desc="为鲜花从业人员及花店提供优质的资材批发服务"  />
+</CardGrid>
 
 ## 企业文化
 
@@ -52,32 +62,33 @@ title: "关于我们"
 
 :::
 
-::: timeline date="2024-02-08" 
+::: timeline date="2024-02-08"
 
 昆明花思科技有限公司在昆明经开区市场监管局注册登记
 
 :::
-::: timeline date="2024-02-27" 
+
+::: timeline date="2024-02-27"
 
 网站完成 ICP 备案，备案号： 滇ICP备2024020422号
 
 :::
-::: timeline date="2024-03-01" 
+::: timeline date="2024-03-01"
 
 [公司官方网站](https://www.huasikeji.com/) 1.0 版本正式上线
 
 :::
-::: timeline date="2024-04-01" 
+::: timeline date="2024-04-01"
 
 花思花卉项目正式启动
 
 :::
-::: timeline date="2024-08-18" 
+::: timeline date="2024-08-18"
 
 经历四个月的打磨，花思花卉项目网站 正式上线，[地址一](//huahui.huasihuasi.com/)、[地址二](https://www.huasihuahui.com/)
 
 :::
-::: timeline date="现在" 
+::: timeline date="现在"
 
 未完待续...
 

@@ -74,7 +74,7 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
             text: '关于我们',
             // collapsed: false,
             items: [
-                { text: '关于我们', link: '/about/us' },
+                { text: '关于花思', link: '/about/us' },
                 { text: '联系我们', link: '/about/connection' },
             ]
         },
@@ -142,7 +142,7 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
             text: '关于我们',
             // collapsed: false,
             items: [
-                { text: '关于我们', link: '/about/us' },
+                { text: '关于花思', link: '/about/us' },
                 { text: '联系我们', link: '/about/connection' },
             ]
         },
