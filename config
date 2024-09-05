@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[user]
+	email = www@yangzupan.com
+	name = 攀哥
+[remote "github"]
+	url = git@huasikeji:huasikeji/huasihuahui.git
+	fetch = +refs/heads/*:refs/remotes/github/*
