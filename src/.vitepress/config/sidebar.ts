@@ -20,7 +20,8 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
                         { text: '耗材批发', link: '/business/materials/wholesale' },
                     ]
                  },
-                { text: '礼品花束', link: '/business/packing/' },
+                 {text:'包装花束',link:'/business/packing/'},
+                 {text:'礼品花束',link:'/business/gift/'},
             ],
         },
     ],
@@ -98,7 +99,8 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
                         { text: '耗材批发', link: '/business/materials/wholesale' },
                     ]
                  },
-                { text: '礼品花束', link: '/business/packing/' },
+                {text:'包装花束',link:'/business/packing/'},
+                {text:'礼品花束',link:'/business/gift/'},
             ],
         },
         {

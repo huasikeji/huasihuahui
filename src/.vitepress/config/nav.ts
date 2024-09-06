@@ -8,7 +8,8 @@ export const nav: DefaultTheme.Config['nav'] = [
   items: [
      {text:'花材销售',link:'/business/flower/'},
      {text:'包装耗材',link:'/business/materials/'},
-     {text:'礼品花束',link:'/business/packing/'},
+     {text:'包装花束',link:'/business/packing/'},
+     {text:'礼品花束',link:'/business/gift/'},
   ],
 },
 // 服务中心
